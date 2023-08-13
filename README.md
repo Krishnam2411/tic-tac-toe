@@ -1,5 +1,5 @@
 ![logo](https://github.com/Krishnam2411/tic-tac-toe/assets/124492864/fcd3e269-53dc-4712-ad6d-260585b321d2)
-
+Welcome to the Tic-Tac-Toe Game project! This repository contains a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
 ## Features
 - Game Logic: The game is implemented using JavaScript to handle the logic of player moves and win detection.
